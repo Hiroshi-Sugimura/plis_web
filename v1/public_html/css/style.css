@@ -107,7 +107,8 @@ header {
 	display: flex;					/*flexボックスを使う指定*/
 	justify-content: space-between;	/*並びかたの種類の指定*/
 	align-items: center;			/*垂直揃えの指定。天地中央に配置されるように。*/
-	background: #4f6e80;			/*背景色*/
+	background: #4f6e80;			/*背景色 old*/
+	background: #ffffff;			/*背景色 sugi*/
 	position: fixed; z-index: 1;	/*スクロールしても動かないようにする指定*/
 	width: 100%;
 	padding: 0 3%;					/*上下、左右へのヘッダー内の余白*/
@@ -138,7 +139,7 @@ header #logo {
 	position: relative;
 	top: 50px;	/*headerのheightの数値と合わせて下さい。*/
 	overflow: hidden;
-	background: url(../images/mainimg.jpg) no-repeat center center / 100%;	/*背景色、背景画像の読み込み、最後の100%は画像幅。*/
+	background: url(../images/mainimg.png) no-repeat center center / 100%;	/*背景色、背景画像の読み込み、最後の100%は画像幅。*/
 	color: #fff;	/*文字色*/
 }
 
@@ -800,7 +801,8 @@ html, body {
 
 /*メニュー１個あたりの設定*/
 #menubar a {
-	padding: 10px 15px;	/*上下、左右への余白*/
+    padding: 10px 15px;	/*上下、左右への余白*/
+    color: black;
 }
 
 
