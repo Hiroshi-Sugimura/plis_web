@@ -6,12 +6,15 @@
 <file name="faq.html" server="plis.sugi-lab.net:24322/html/" local="133305104372783842" remote="133305108830000000" Dst="0" />
 <file name="finish.html" server="plis.sugi-lab.net:24322/html/" local="133305104430100221" remote="133305108830000000" Dst="0" />
 <file name="form.html" server="plis.sugi-lab.net:24322/html/" local="133305104498173767" remote="133305108830000000" Dst="0" />
-<file name="index.html" server="plis.sugi-lab.net:24322/html/" local="133305107504538376" remote="133305108850000000" Dst="0" />
+<file name="index.html" server="plis.sugi-lab.net:24322/html/" local="133305676340427575" remote="133305676400000000" Dst="0" />
 <file name="interview.html" server="plis.sugi-lab.net:24322/html/" local="133305104570019969" remote="133305108850000000" Dst="0" />
 <file name="item.html" server="plis.sugi-lab.net:24322/html/" local="133305104614641934" remote="133305108860000000" Dst="0" />
-<file name="list.html" server="plis.sugi-lab.net:24322/html/" local="133305104661288519" remote="133305108870000000" Dst="0" />
-<file name="privacyPolicy.htm" server="plis.sugi-lab.net:24322/html/" local="133304832768973060" remote="133305011730000000" Dst="0" />
-<file name="regist.html" server="plis.sugi-lab.net:24322/html/" local="133305104717322917" remote="133305108870000000" Dst="0" />
 <file name="request.html" server="plis.sugi-lab.net:24322/html/" local="133305104760546788" remote="133305108870000000" Dst="0" />
 <file name="sample_inview.html" server="plis.sugi-lab.net:24322/html/" local="133305104826744461" remote="133305108880000000" Dst="0" />
+<file name="laboratory.html" server="plis.sugi-lab.net:24322/html/" local="133305104181247125" remote="133305674630000000" Dst="0" />
+<file name="manual1.html" server="plis.sugi-lab.net:24322/html/" local="133305104570019969" remote="133305674630000000" Dst="0" />
+<file name="privacyPolicy.html" server="plis.sugi-lab.net:24322/html/" local="133304832768973060" remote="133305674630000000" Dst="0" />
+<file name="releases.html" server="plis.sugi-lab.net:24322/html/" local="133305104661288519" remote="133305674630000000" Dst="0" />
+<file name="terms.html" server="plis.sugi-lab.net:24322/html/" local="133304832768973060" remote="133305674630000000" Dst="0" />
+<file name="userManual.html" server="plis.sugi-lab.net:24322/html/" local="133305104826744461" remote="133305674630000000" Dst="0" />
 </dwsync>
