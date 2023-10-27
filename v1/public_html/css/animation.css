@@ -66,19 +66,19 @@ li {
   transform: translateX(-80%);
 }
 .slide div:nth-of-type(1){ /* 背景色 */
-  background-color: #E1F3FC;
+  background-color: orange;
 }
 .slide div:nth-of-type(2){ /* 背景色 */
-  background-color: #FCE8F0;
+  background-color: lightgreen;
 }
 .slide div:nth-of-type(3){ /* 背景色 */
-  background-color: #E3F1E4;
-}
-.slide div:nth-of-type(4){ /* 背景色 */
   background-color: #e9a7ec;
 }
+.slide div:nth-of-type(4){ /* 背景色 */
+  background-color: #e66060;
+}
 .slide div:nth-of-type(5){ /* 背景色 */
-  background-color: #eef793;
+  background-color: skyblue;
 }
 /* ↓ 左右のボタン */
 .next {
