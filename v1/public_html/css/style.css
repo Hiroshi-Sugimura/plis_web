@@ -967,7 +967,7 @@ html, body {
 	left: 50%;
 	width: 16rem;
 	font-family: FontAwesome;
-	content: '\f13a'' 続きを表示';
+	content: ' 続きを表示';
 	transform: translate(-50%, 0);
 	letter-spacing: 0.05em;
 	color: #ffffff;
@@ -987,7 +987,7 @@ html, body {
 }
 .cp_box input:checked + label:after {
 	font-family: FontAwesome;
-	content: '\f139'' 閉じる';
+	content: ' 閉じる';
 }
 .cp_box input:checked ~ .cp_container {
 	height: auto;
