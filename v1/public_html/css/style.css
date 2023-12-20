@@ -981,6 +981,8 @@ html, body {
 	overflow: hidden;
 	height: 450px; /* 開く前に見えている部分の高さ */
 	transition: all 0.5s;
+	padding-left: 30px;
+	padding-right: 60px;
 }
 .cp_box input:checked + label {
 	/* display: none ; 閉じるボタンを消す場合解放 */
