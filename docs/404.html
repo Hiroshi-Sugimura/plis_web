@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>ページが見つかりません | PLIS</title>
+<script>
+// 旧URL → 新URL（大文字小文字違いなどファイルとして置けないもの）
+(function () {
+  var map = { "/omron.html": "/OMRON.html" };
+  var to = map[decodeURIComponent(location.pathname).toLowerCase()];
+  if (to) location.replace(to + location.search + location.hash);
+})();
+</script>
+</head>
+<body>
+<p>ページが見つかりません。<a href="https://plis.sugi-lab.net/">PLISトップへ</a></p>
+</body>
+</html>
