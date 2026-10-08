@@ -4,9 +4,13 @@
 <meta charset="utf-8">
 <title>ページが見つかりません | PLIS</title>
 <script>
-// 旧URL → 新URL（大文字小文字違いなどファイルとして置けないもの）
 (function () {
-  var map = { "/omron.html": "/OMRON.html" };
+  // 旧URL → 新URL（大文字小文字違いや日本語名で、ファイルとして置けないもの）
+  var map = {
+    "/omron.html": "/OMRON.html",
+    "/気象庁.html": "/jma.html",
+    "/スマートメーター.html": "/smart-meter.html"
+  };
   var to = map[decodeURIComponent(location.pathname).toLowerCase()];
   if (to) location.replace(to + location.search + location.hash);
 })();
