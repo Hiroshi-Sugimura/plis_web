@@ -285,7 +285,7 @@ main h2 {
 main h2 span {
 	display: block;
 	font-weight: normal;
-	color: #777;		/*文字色*/
+	color: #555;		/*文字色（背景色とのコントラスト比 4.5 以上）*/
 	font-size: 13px;	/*文字サイズ*/
 }
 
@@ -337,7 +337,7 @@ footer .pr {display: block;}
 /*ボックス内のリンクテキスト設定*/
 #footermenu a {
 	text-decoration: none;
-	color: #999;	/*文字色*/
+	color: #aaa;	/*文字色（背景色とのコントラスト比 4.5 以上）*/
 }
 
 /*リンクテキストのマウスオン時*/
@@ -595,7 +595,7 @@ a.btn1, a.btn2 {
 	box-shadow: 1px 2px 3px rgba(0,0,0,0.2);
 }
 a.btn1 {
-	background: #e27b2c;
+	background: #b85a15;	/*白文字とのコントラスト比 4.5 以上*/
 	color: #fff;
 }
 a.btn2 {
